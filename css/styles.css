@@ -1,0 +1,94 @@
+button {
+	cursor: pointer;
+}
+
+button:focus {
+	outline: none!important;
+}
+
+button:active {
+	border-style: none!important;
+}
+
+input:focus {
+	outline: none!important;
+}
+
+body {
+	background: #F1F6F6;
+	font-size: 8px;
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+h2 {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.absolute {
+	position: absolute;
+}
+
+.bg-image {
+	background-image: url(../images/snapshot.jpeg);
+    background-size: cover;
+}
+
+.border-left {
+	border-left: 0.9px solid lightgray;
+}
+
+.border-top {
+	border-top: 0.9px solid lightgray;
+}
+
+.border-bottom {
+	border-bottom: 0.9px solid lightgray;
+}
+
+.bottom-absolute {
+	bottom: 0;
+}
+.primary-bg {
+	background: #22ADA8;
+}
+
+.success-bg {
+	background: #00C569;
+}
+.navbar {
+	background: white;
+	box-shadow: 0 0.3em 4px #E8ECEC;
+	height: 10vw;
+	max-height: 75px;
+}
+
+.relative {
+	position: relative;
+}
+
+ .line {
+ 	border-bottom: 0.8px solid lightgray;
+ }
+
+ .pointer {
+ 	cursor: pointer;
+ }
+
+
+.round-input {
+	font-size: 1.1rem;
+    background-color: #F1F6F6;
+    border-radius: 25px;
+    border: 1px solid #DDE4E4;
+    padding: 16px 5px;
+    text-align: center;
+    width: 90%;
+}
+
+.w-400 {
+	width: 400px;
+}

@@ -1,0 +1,45 @@
+.container {
+	background: white;
+	padding: 10%;
+	border-radius: 30px;
+	box-shadow: 1px 1px 2px #D5DADA;
+}
+
+.container-body > .container-item, .container-header, .container-title {
+	padding: 16px 0 16px 8px;
+}
+
+
+.container-body > .line {
+	margin: 16px 0;
+}
+
+
+.container-item {
+	font-size: 1.22rem;
+	color: gray;
+	letter-spacing: 0.001px;
+}
+
+.container-item.active {
+	text-decoration: underline;
+	color: #22ADA8;
+}
+
+.container-title {
+	font-size: 1.35rem;
+	font-weight: bold;
+	letter-spacing: 0.05rem;
+}
+
+.container-header {
+	font-size: 1.3rem;
+	font-weight: bold;
+	letter-spacing: 0.03rem;
+}
+
+.container-section-title {
+	font-size: 1.3rem;
+	font-weight: bolder;
+	letter-spacing: 0.055rem;
+}

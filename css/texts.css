@@ -1,0 +1,23 @@
+.text-center {
+	text-align: center;
+}
+
+.subtitle {
+	font-size: 1.2rem;
+	font-weight: lighter;
+	letter-spacing: 0.15rem;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
+}
+
+.title {
+	font-size: 1.8rem;
+	font-weight: lighter;
+	letter-spacing: 0.15rem;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
+}
+
+.underlined {
+	text-decoration: underline;
+}

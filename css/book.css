@@ -1,0 +1,32 @@
+.book {
+	max-width: 250px;
+	background: white;
+	border-radius: 20px;
+	box-shadow: 1.5px 1.5px 3px #D5DADA;
+	overflow: hidden;
+}
+.book-footer {
+	padding: 20 15px!important;
+}
+
+.book-footer > div {
+	padding: 8px 0;
+}
+
+.book-title {
+	color: #22ADA8;
+	font-size: 0.9rem;
+	font-weight: bold;
+	letter-spacing: 0.02px;
+}
+.book-size {
+	color: lightgray;
+	font-size: 0.8rem;
+	font-weight: bold;
+	letter-spacing: 0.02px;
+}
+
+.book-snapshot {
+	width: 100%;
+    min-height: 350px;
+}
