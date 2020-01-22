@@ -1,8 +1,9 @@
 .book {
-	max-width: 250px;
 	background: white;
-	border-radius: 20px;
-	box-shadow: 1.5px 1.5px 3px #D5DADA;
+	border-radius: 10px;
+	box-shadow: 2.5px 2.5px 2.5px #D5DADA;
+	margin: 0 10px;
+	max-width: 240px;
 	overflow: hidden;
 }
 .book-footer {
@@ -28,5 +29,5 @@
 
 .book-snapshot {
 	width: 100%;
-    min-height: 350px;
+    min-height: 220px;
 }
